@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/buttoncnm2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="艹尼玛点我啊2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="返回上一层"
+        android:id="@+id/buttoncnm2_2"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is a normal activity" />
+
+</LinearLayout>
