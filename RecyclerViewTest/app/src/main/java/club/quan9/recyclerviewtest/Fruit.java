@@ -14,4 +14,13 @@ public class Fruit
         this.ImageId=ImageId;
     }
 
+    public int getImageId()
+    {
+        return ImageId;
+    }
+
+    public String getName()
+    {
+        return Name;
+    }
 }
